@@ -49,3 +49,9 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+ funky-text {
+	color: #d206e9;
+	text-align:center;
+	font-style: italic;
+	text-decoration: underline #7e7b7e;
+}
